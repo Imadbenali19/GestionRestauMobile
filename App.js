@@ -14,7 +14,7 @@ import { getPhoto } from "./util/getPhotosOfRestau";
 //   'https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPdfP5hPJXoQFbmwF0jfVXQhDcp-lNfV0K9TQqGFa8UaDXHIH7ceXuX4g36Kuats2GtEAeSuZXvifM9dT0sxDCvHJJMzQ=w1920-h902',
 //   'https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPtRhcRYYUWNcpswpg2cy3b4LldCiNl3fyaXZVhVAYwC_5KRT4vP8Vm6YrE9UX6vLL_TA3SSPhWfgQDuG-rl6jFH4Y1aw=w1920-h902',
 //   //'./assets/icon.png',
-
+//
 // ];
 var i = 0;
 
